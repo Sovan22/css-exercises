@@ -1,0 +1,13 @@
+.click,.clickAlt{
+    font-size: 28px;
+    font-family: 'helvetica', 'times new roman', 'sans-serif';
+}
+
+.click{
+    background-color: black;
+    color: white;
+}
+
+.clickAlt{
+    background-color: yellow;
+}
